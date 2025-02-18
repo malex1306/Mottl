@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/bin/Debug/net9.0/PatterThree
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/bin/Debug/net9.0/PatterThree.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/bin/Debug/net9.0/PatterThree.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/bin/Debug/net9.0/PatterThree.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/bin/Debug/net9.0/PatterThree.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/PatterThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/PatterThree.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/PatterThree.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/PatterThree.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/PatterThree.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/refint/PatterThree.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/PatterThree.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/PatterThree.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterThree/obj/Debug/net9.0/ref/PatterThree.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/bin/Debug/net9.0/PatternFive
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/bin/Debug/net9.0/PatternFive.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/bin/Debug/net9.0/PatternFive.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/bin/Debug/net9.0/PatternFive.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/bin/Debug/net9.0/PatternFive.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/refint/PatternFive.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/ref/PatternFive.dll

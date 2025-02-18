@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/bin/Debug/net9.0/PatterSix
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/bin/Debug/net9.0/PatterSix.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/bin/Debug/net9.0/PatterSix.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/bin/Debug/net9.0/PatterSix.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/bin/Debug/net9.0/PatterSix.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/refint/PatterSix.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/ref/PatterSix.dll

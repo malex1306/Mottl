@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/bin/Debug/net9.0/PatterTwo
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/bin/Debug/net9.0/PatterTwo.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/bin/Debug/net9.0/PatterTwo.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/bin/Debug/net9.0/PatterTwo.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/bin/Debug/net9.0/PatterTwo.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/PatterTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/PatterTwo.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/PatterTwo.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/PatterTwo.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/PatterTwo.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/refint/PatterTwo.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/PatterTwo.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/PatterTwo.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterTwo/obj/Debug/net9.0/ref/PatterTwo.dll

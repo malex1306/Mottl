@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/bin/Debug/net9.0/PatterFour
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/bin/Debug/net9.0/PatterFour.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/bin/Debug/net9.0/PatterFour.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/bin/Debug/net9.0/PatterFour.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/bin/Debug/net9.0/PatterFour.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/PatterFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/PatterFour.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/PatterFour.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/PatterFour.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/PatterFour.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/refint/PatterFour.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/PatterFour.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/PatterFour.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterFour/obj/Debug/net9.0/ref/PatterFour.dll

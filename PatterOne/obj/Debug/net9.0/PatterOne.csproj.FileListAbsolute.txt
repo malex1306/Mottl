@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/PatterOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/PatterOne.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/PatterOne.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/PatterOne.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/bin/Debug/net9.0/PatterOne
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/bin/Debug/net9.0/PatterOne.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/bin/Debug/net9.0/PatterOne.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/bin/Debug/net9.0/PatterOne.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/bin/Debug/net9.0/PatterOne.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/PatterOne.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/refint/PatterOne.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/PatterOne.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/PatterOne.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/Debug/net9.0/ref/PatterOne.dll
