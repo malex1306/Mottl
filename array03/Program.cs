@@ -22,8 +22,7 @@ class Program
         foreach (string item in arr)
         {
             bool istEinzigartig = true;
-
-           
+            
             for (int i = 0; i < einzigartigeItems.Count; i++)
             {
                 if (einzigartigeItems[i] == item)
@@ -32,7 +31,6 @@ class Program
                     break;
                 }
             }
-
             
             if (istEinzigartig)
             {
