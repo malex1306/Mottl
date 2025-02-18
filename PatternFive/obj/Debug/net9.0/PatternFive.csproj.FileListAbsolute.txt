@@ -12,3 +12,4 @@
 /Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.pdb
 /Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.genruntimeconfig.cache
 /Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/ref/PatternFive.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatternFive/obj/Debug/net9.0/PatternFive.sourcelink.json

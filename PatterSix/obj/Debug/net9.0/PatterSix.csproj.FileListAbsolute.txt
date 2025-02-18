@@ -12,3 +12,4 @@
 /Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.pdb
 /Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.genruntimeconfig.cache
 /Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/ref/PatterSix.dll
+/Users/marcelalexandre/RiderProjects/Mottl/PatterSix/obj/Debug/net9.0/PatterSix.sourcelink.json

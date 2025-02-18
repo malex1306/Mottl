@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/bin/Debug/net9.0/ArraySimple
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/bin/Debug/net9.0/ArraySimple.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/bin/Debug/net9.0/ArraySimple.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/bin/Debug/net9.0/ArraySimple.dll
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/bin/Debug/net9.0/ArraySimple.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.dll
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/refint/ArraySimple.dll
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ArraySimple.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/ArraySimple/obj/Debug/net9.0/ref/ArraySimple.dll
