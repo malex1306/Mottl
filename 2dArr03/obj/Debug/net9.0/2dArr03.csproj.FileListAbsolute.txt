@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/bin/Debug/net9.0/2dArr03
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/bin/Debug/net9.0/2dArr03.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/bin/Debug/net9.0/2dArr03.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/bin/Debug/net9.0/2dArr03.dll
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/bin/Debug/net9.0/2dArr03.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.dll
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/refint/2dArr03.dll
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/2dArr03.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr03/obj/Debug/net9.0/ref/2dArr03.dll
