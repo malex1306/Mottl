@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/bin/Debug/net9.0/2dArr05
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/bin/Debug/net9.0/2dArr05.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/bin/Debug/net9.0/2dArr05.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/bin/Debug/net9.0/2dArr05.dll
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/bin/Debug/net9.0/2dArr05.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.dll
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/refint/2dArr05.dll
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/2dArr05.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/2dArr05/obj/Debug/net9.0/ref/2dArr05.dll
