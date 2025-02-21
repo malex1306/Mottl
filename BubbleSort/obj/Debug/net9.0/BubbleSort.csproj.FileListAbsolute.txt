@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/bin/Debug/net9.0/BubbleSort
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/bin/Debug/net9.0/BubbleSort.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/bin/Debug/net9.0/BubbleSort.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/bin/Debug/net9.0/BubbleSort.dll
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/bin/Debug/net9.0/BubbleSort.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.dll
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/refint/BubbleSort.dll
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/BubbleSort.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/BubbleSort/obj/Debug/net9.0/ref/BubbleSort.dll

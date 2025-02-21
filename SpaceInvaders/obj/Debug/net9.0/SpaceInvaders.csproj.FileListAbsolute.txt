@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/bin/Debug/net9.0/SpaceInvaders
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/bin/Debug/net9.0/SpaceInvaders.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/bin/Debug/net9.0/SpaceInvaders.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/bin/Debug/net9.0/SpaceInvaders.dll
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/bin/Debug/net9.0/SpaceInvaders.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.dll
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/refint/SpaceInvaders.dll
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/SpaceInvaders.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/SpaceInvaders/obj/Debug/net9.0/ref/SpaceInvaders.dll

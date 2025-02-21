@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/bin/Debug/net9.0/TemperaturUmrechner
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/bin/Debug/net9.0/TemperaturUmrechner.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/bin/Debug/net9.0/TemperaturUmrechner.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/bin/Debug/net9.0/TemperaturUmrechner.dll
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/bin/Debug/net9.0/TemperaturUmrechner.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.dll
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/refint/TemperaturUmrechner.dll
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/TemperaturUmrechner.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/TemperaturUmrechner/obj/Debug/net9.0/ref/TemperaturUmrechner.dll

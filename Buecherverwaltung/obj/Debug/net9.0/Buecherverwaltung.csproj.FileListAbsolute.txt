@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/bin/Debug/net9.0/Buecherverwaltung
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/bin/Debug/net9.0/Buecherverwaltung.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/bin/Debug/net9.0/Buecherverwaltung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/bin/Debug/net9.0/Buecherverwaltung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/bin/Debug/net9.0/Buecherverwaltung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/refint/Buecherverwaltung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/Buecherverwaltung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Buecherverwaltung/obj/Debug/net9.0/ref/Buecherverwaltung.dll

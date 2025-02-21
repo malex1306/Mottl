@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/bin/Debug/net9.0/MethodenBsp
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/bin/Debug/net9.0/MethodenBsp.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/bin/Debug/net9.0/MethodenBsp.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/bin/Debug/net9.0/MethodenBsp.dll
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/bin/Debug/net9.0/MethodenBsp.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.dll
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/refint/MethodenBsp.dll
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/MethodenBsp.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/MethodenBsp/obj/Debug/net9.0/ref/MethodenBsp.dll
