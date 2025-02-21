@@ -2,6 +2,12 @@
 
 class Program
 {
+    static void Main()
+    {
+        string[] input = { "Z", "Z", "Z", "Z", "7", "7", "7", "7", "7", "7", "7", "7", "7", "7", "M", "P", "P", "P", "P", "P", "H", "H" };
+        string[] result = ErstelleKomprimierung(input);
+        Console.WriteLine(string.Join(", ", result));
+    }
     static string[] ErstelleKomprimierung(string[] unkomprimiert)
     {
         List<string> komprimiert = new List<string>();
@@ -48,12 +54,5 @@ class Program
         }
 
         return komprimiert.ToArray();
-    }
-
-    static void Main()
-    {
-        string[] input = { "a", "a", "a", "a", "a", "b", "b", "b", "c", "c", "c", "c", "c", "c" };
-        string[] result = ErstelleKomprimierung(input);
-        Console.WriteLine(string.Join(", ", result));
     }
 }

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/bin/Debug/net9.0/Fantasygame
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/bin/Debug/net9.0/Fantasygame.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/bin/Debug/net9.0/Fantasygame.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/bin/Debug/net9.0/Fantasygame.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/bin/Debug/net9.0/Fantasygame.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/refint/Fantasygame.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/Fantasygame.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Fantasygame/obj/Debug/net9.0/ref/Fantasygame.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/bin/Debug/net9.0/Komprimierung
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/bin/Debug/net9.0/Komprimierung.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/bin/Debug/net9.0/Komprimierung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/bin/Debug/net9.0/Komprimierung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/bin/Debug/net9.0/Komprimierung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/refint/Komprimierung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/Komprimierung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Komprimierung/obj/Debug/net9.0/ref/Komprimierung.dll
