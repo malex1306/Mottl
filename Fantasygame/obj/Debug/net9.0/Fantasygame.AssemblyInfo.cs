@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fantasygame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c60bd6943d29d4bd60cc082affc3e20daeeadbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0806f0f9afaf1682addf7a3c29b25e819c61da2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fantasygame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fantasygame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

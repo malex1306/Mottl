@@ -4,8 +4,9 @@ public class CharakterPoints
 {
     public void PlayerPoints()
     {
+        Console.WriteLine();
         Console.WriteLine("Nun kannst du Insgesamt 15 Punkte in Stärke, Gesundheit und Glück verteilen");
-        Console.WriteLine("Achte auf die Punkteverteilung wird sie überschritten werden jedem Attribut automatisch 5 zugewiesen");
+        Console.WriteLine("Achte auf die Punkteverteilung wird sie überschritten werden jedem Attribut automatisch 5 zugewiesen. \n\n");
 
         int staerke, gesundheit, glueck = 0;
         int maxPunkte = 15;
@@ -33,7 +34,7 @@ public class CharakterPoints
                 Console.WriteLine($"Bitte verteile die Maximalen Punkte von{maxPunkte} neu");
             }
         }
-        Console.WriteLine("\n Punkte erfolgreich verteilt");
-        Console.WriteLine($"Du hast Stärke: {staerke}, Gesundheit: {gesundheit}, Glück: {glueck} gegeben!");
+        Console.WriteLine("\n Punkte erfolgreich verteilt\n");
+        Console.WriteLine($"Du hast Stärke: {staerke}, Gesundheit: {gesundheit}, Glück: {glueck} gegeben!\n\n");
     }
 }
