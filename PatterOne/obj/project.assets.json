@@ -8,32 +8,25 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alexa\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/marcelalexandre/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\RiderProjects\\Mottl\\PatterOne\\PatterOne.csproj",
+      "projectUniqueName": "/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/PatterOne.csproj",
       "projectName": "PatterOne",
-      "projectPath": "C:\\Users\\alexa\\RiderProjects\\Mottl\\PatterOne\\PatterOne.csproj",
-      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\RiderProjects\\Mottl\\PatterOne\\obj\\",
+      "projectPath": "/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/PatterOne.csproj",
+      "packagesPath": "/Users/marcelalexandre/.nuget/packages/",
+      "outputPath": "/Users/marcelalexandre/RiderProjects/Mottl/PatterOne/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/marcelalexandre/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/Users/marcelalexandre/.dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -50,7 +43,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -73,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/marcelalexandre/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
