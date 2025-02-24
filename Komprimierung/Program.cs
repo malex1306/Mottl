@@ -47,7 +47,7 @@ class Program
         }
         else
         {
-            for (int j = 0; j < zaehler; j++)
+            for (int j = 0; j < zaehler; j--)
             {
                 komprimiert.Add(unkomprimiert[^1]);
             }
