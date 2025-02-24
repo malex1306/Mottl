@@ -39,7 +39,7 @@ public class Story
                 Console.WriteLine("Du reist weiter...");
                 break;
             }
-            Console.WriteLine("Die story geht weiter");
+            
         }
     }
 
