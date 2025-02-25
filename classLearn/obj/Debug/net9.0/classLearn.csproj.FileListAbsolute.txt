@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/bin/Debug/net9.0/classLearn
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/bin/Debug/net9.0/classLearn.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/bin/Debug/net9.0/classLearn.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/bin/Debug/net9.0/classLearn.dll
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/bin/Debug/net9.0/classLearn.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.dll
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/refint/classLearn.dll
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/classLearn.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/classLearn/obj/Debug/net9.0/ref/classLearn.dll

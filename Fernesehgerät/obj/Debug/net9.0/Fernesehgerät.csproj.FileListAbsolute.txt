@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/bin/Debug/net9.0/Fernesehgerät
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/bin/Debug/net9.0/Fernesehgerät.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/bin/Debug/net9.0/Fernesehgerät.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/bin/Debug/net9.0/Fernesehgerät.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/bin/Debug/net9.0/Fernesehgerät.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/refint/Fernesehgerät.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/Fernesehgerät.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Fernesehgerät/obj/Debug/net9.0/ref/Fernesehgerät.dll

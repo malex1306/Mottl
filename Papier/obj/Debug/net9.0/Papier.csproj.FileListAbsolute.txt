@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/bin/Debug/net9.0/Papier
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/bin/Debug/net9.0/Papier.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/bin/Debug/net9.0/Papier.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/bin/Debug/net9.0/Papier.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/bin/Debug/net9.0/Papier.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/refint/Papier.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/Papier.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Papier/obj/Debug/net9.0/ref/Papier.dll
