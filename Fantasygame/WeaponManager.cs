@@ -8,7 +8,7 @@ public class WeaponManager
     public WeaponManager()
     {
         //Start weapons
-        weapons.Add(new Weapon("Schwert", 5, "Nahkampf"));
+        weapons.Add(new Weapon("Schwert", 4, "Nahkampf"));
         weapons.Add(new Weapon("Zauberstab", 5, "Magie"));
         weapons.Add(new Weapon("Bogen", 5, "Fernkampf"));
         
