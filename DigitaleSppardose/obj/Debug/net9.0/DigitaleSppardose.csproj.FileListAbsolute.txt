@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/bin/Debug/net9.0/DigitaleSppardose
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/bin/Debug/net9.0/DigitaleSppardose.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/bin/Debug/net9.0/DigitaleSppardose.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/bin/Debug/net9.0/DigitaleSppardose.dll
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/bin/Debug/net9.0/DigitaleSppardose.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.dll
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/refint/DigitaleSppardose.dll
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/DigitaleSppardose.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/DigitaleSppardose/obj/Debug/net9.0/ref/DigitaleSppardose.dll
