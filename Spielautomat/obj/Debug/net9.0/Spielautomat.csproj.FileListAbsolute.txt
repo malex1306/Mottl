@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/bin/Debug/net9.0/Spielautomat
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/bin/Debug/net9.0/Spielautomat.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/bin/Debug/net9.0/Spielautomat.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/bin/Debug/net9.0/Spielautomat.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/bin/Debug/net9.0/Spielautomat.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/refint/Spielautomat.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/Spielautomat.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Spielautomat/obj/Debug/net9.0/ref/Spielautomat.dll

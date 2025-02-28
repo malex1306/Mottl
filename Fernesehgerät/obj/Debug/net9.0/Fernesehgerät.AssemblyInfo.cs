@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fernesehgerät")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b52e17d8f68abd472a3befd7bb5924956e2e7df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5917abd1b26fcaa640b2ac39e087e0180a92038b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fernesehgerät")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fernesehgerät")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
