@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/bin/Debug/net9.0/Spielkader
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/bin/Debug/net9.0/Spielkader.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/bin/Debug/net9.0/Spielkader.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/bin/Debug/net9.0/Spielkader.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/bin/Debug/net9.0/Spielkader.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/refint/Spielkader.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/Spielkader.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Spielkader/obj/Debug/net9.0/ref/Spielkader.dll

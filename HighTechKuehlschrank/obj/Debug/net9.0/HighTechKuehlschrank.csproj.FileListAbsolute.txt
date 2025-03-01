@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/bin/Debug/net9.0/HighTechKuehlschrank
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/bin/Debug/net9.0/HighTechKuehlschrank.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/bin/Debug/net9.0/HighTechKuehlschrank.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/bin/Debug/net9.0/HighTechKuehlschrank.dll
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/bin/Debug/net9.0/HighTechKuehlschrank.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.dll
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/refint/HighTechKuehlschrank.dll
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/HighTechKuehlschrank.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/HighTechKuehlschrank/obj/Debug/net9.0/ref/HighTechKuehlschrank.dll
