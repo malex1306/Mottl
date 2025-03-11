@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spielkader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da827b6497a5aaf80e04d945e30d62543f9fac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f1293f2a243a8bcf9fb4f2569e20bf689c050b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spielkader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spielkader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

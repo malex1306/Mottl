@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/bin/Debug/net9.0/ZooBesucher
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/bin/Debug/net9.0/ZooBesucher.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/bin/Debug/net9.0/ZooBesucher.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/bin/Debug/net9.0/ZooBesucher.dll
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/bin/Debug/net9.0/ZooBesucher.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.dll
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/refint/ZooBesucher.dll
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ZooBesucher.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/ZooBesucher/obj/Debug/net9.0/ref/ZooBesucher.dll

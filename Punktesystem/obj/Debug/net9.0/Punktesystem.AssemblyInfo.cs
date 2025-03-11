@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Punktesystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5917abd1b26fcaa640b2ac39e087e0180a92038b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f1293f2a243a8bcf9fb4f2569e20bf689c050b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Punktesystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Punktesystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
