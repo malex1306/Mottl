@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/bin/Debug/net9.0/Überschreiben
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/bin/Debug/net9.0/Überschreiben.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/bin/Debug/net9.0/Überschreiben.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/bin/Debug/net9.0/Überschreiben.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/bin/Debug/net9.0/Überschreiben.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/refint/Überschreiben.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/Überschreiben.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Überschreiben/obj/Debug/net9.0/ref/Überschreiben.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/bin/Debug/net9.0/FlintStones
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/bin/Debug/net9.0/FlintStones.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/bin/Debug/net9.0/FlintStones.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/bin/Debug/net9.0/FlintStones.dll
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/bin/Debug/net9.0/FlintStones.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.dll
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/refint/FlintStones.dll
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/FlintStones.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/FlintStones/obj/Debug/net9.0/ref/FlintStones.dll

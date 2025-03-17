@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/bin/Debug/net9.0/Verdecken_überschreiben
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/bin/Debug/net9.0/Verdecken_überschreiben.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/bin/Debug/net9.0/Verdecken_überschreiben.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/bin/Debug/net9.0/Verdecken_überschreiben.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/bin/Debug/net9.0/Verdecken_überschreiben.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/refint/Verdecken_überschreiben.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/Verdecken_überschreiben.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Verdecken_überschreiben/obj/Debug/net9.0/ref/Verdecken_überschreiben.dll

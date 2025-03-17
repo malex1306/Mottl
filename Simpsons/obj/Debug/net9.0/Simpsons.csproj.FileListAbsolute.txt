@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/bin/Debug/net9.0/Simpsons
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/bin/Debug/net9.0/Simpsons.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/bin/Debug/net9.0/Simpsons.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/bin/Debug/net9.0/Simpsons.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/bin/Debug/net9.0/Simpsons.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/refint/Simpsons.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/Simpsons.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Simpsons/obj/Debug/net9.0/ref/Simpsons.dll
