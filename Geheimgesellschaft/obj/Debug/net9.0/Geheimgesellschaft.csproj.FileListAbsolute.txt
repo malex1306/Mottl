@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/bin/Debug/net9.0/Geheimgesellschaft
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/bin/Debug/net9.0/Geheimgesellschaft.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/bin/Debug/net9.0/Geheimgesellschaft.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/bin/Debug/net9.0/Geheimgesellschaft.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/bin/Debug/net9.0/Geheimgesellschaft.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/refint/Geheimgesellschaft.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/Geheimgesellschaft.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Geheimgesellschaft/obj/Debug/net9.0/ref/Geheimgesellschaft.dll

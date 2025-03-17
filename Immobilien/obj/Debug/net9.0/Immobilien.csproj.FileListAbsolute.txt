@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/bin/Debug/net9.0/Immobilien
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/bin/Debug/net9.0/Immobilien.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/bin/Debug/net9.0/Immobilien.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/bin/Debug/net9.0/Immobilien.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/bin/Debug/net9.0/Immobilien.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/refint/Immobilien.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/Immobilien.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Immobilien/obj/Debug/net9.0/ref/Immobilien.dll
