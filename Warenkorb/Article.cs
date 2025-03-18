@@ -3,9 +3,9 @@ namespace Warenkorb;
 public class Article
 {
     public int ArticleNumber { get; }
-    public decimal NetPrice { get; }
+    protected decimal NetPrice { get; }
 
-    public Article(int articleNumber, decimal netPrice)
+    protected Article(int articleNumber, decimal netPrice)
     {
         ArticleNumber = articleNumber;
         NetPrice = netPrice;

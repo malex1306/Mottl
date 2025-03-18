@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/bin/Debug/net9.0/BuildAbstract
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/bin/Debug/net9.0/BuildAbstract.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/bin/Debug/net9.0/BuildAbstract.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/bin/Debug/net9.0/BuildAbstract.dll
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/bin/Debug/net9.0/BuildAbstract.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.dll
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/refint/BuildAbstract.dll
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/BuildAbstract.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/BuildAbstract/obj/Debug/net9.0/ref/BuildAbstract.dll

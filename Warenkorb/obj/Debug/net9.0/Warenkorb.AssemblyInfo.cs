@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Warenkorb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22ed441aefb5a7dfca68871bf08ace435ede8a69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14fc357652b3ea80db06130f740953a004105db9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Warenkorb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Warenkorb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
