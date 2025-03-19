@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/bin/Debug/net9.0/FahrtenbuchOrga
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/bin/Debug/net9.0/FahrtenbuchOrga.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/bin/Debug/net9.0/FahrtenbuchOrga.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/bin/Debug/net9.0/FahrtenbuchOrga.dll
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/bin/Debug/net9.0/FahrtenbuchOrga.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.dll
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/refint/FahrtenbuchOrga.dll
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/FahrtenbuchOrga.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/FahrtenbuchOrga/obj/Debug/net9.0/ref/FahrtenbuchOrga.dll
