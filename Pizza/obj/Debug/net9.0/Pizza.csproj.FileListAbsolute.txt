@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/bin/Debug/net9.0/Pizza
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/bin/Debug/net9.0/Pizza.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/bin/Debug/net9.0/Pizza.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/bin/Debug/net9.0/Pizza.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/bin/Debug/net9.0/Pizza.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/refint/Pizza.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/Pizza.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Pizza/obj/Debug/net9.0/ref/Pizza.dll
