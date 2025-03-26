@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/bin/Debug/net9.0/Vererbung
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/bin/Debug/net9.0/Vererbung.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/bin/Debug/net9.0/Vererbung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/bin/Debug/net9.0/Vererbung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/bin/Debug/net9.0/Vererbung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/refint/Vererbung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/Vererbung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Vererbung/obj/Debug/net9.0/ref/Vererbung.dll

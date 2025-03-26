@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/bin/Debug/net9.0/Rechner
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/bin/Debug/net9.0/Rechner.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/bin/Debug/net9.0/Rechner.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/bin/Debug/net9.0/Rechner.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/bin/Debug/net9.0/Rechner.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/refint/Rechner.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/Rechner.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Rechner/obj/Debug/net9.0/ref/Rechner.dll

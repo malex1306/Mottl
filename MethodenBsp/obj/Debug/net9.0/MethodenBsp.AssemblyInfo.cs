@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodenBsp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+115272b9479d9f15fc724ddaae9190db5b8a1b44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aff98665d0556afe82d1b15d59d7b442a492831")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodenBsp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodenBsp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

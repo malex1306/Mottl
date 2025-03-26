@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/bin/Debug/net9.0/abstInter
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/bin/Debug/net9.0/abstInter.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/bin/Debug/net9.0/abstInter.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/bin/Debug/net9.0/abstInter.dll
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/bin/Debug/net9.0/abstInter.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.dll
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/refint/abstInter.dll
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/abstInter.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/abstInter/obj/Debug/net9.0/ref/abstInter.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/bin/Debug/net9.0/Interface
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/bin/Debug/net9.0/Interface.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/bin/Debug/net9.0/Interface.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/bin/Debug/net9.0/Interface.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/bin/Debug/net9.0/Interface.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/refint/Interface.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/Interface.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Interface/obj/Debug/net9.0/ref/Interface.dll
