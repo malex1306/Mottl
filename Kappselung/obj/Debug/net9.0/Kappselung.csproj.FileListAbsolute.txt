@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/bin/Debug/net9.0/Kappselung
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/bin/Debug/net9.0/Kappselung.deps.json
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/bin/Debug/net9.0/Kappselung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/bin/Debug/net9.0/Kappselung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/bin/Debug/net9.0/Kappselung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.sourcelink.json
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/refint/Kappselung.dll
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.pdb
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/Kappselung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/Mottl/Kappselung/obj/Debug/net9.0/ref/Kappselung.dll
