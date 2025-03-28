@@ -41,7 +41,7 @@ public class Bankkonto
         }
         else
         {
-            Console.WriteLine("Ungültiger Betrag oder unzureichender Kontostand.");
+            Console.WriteLine("Ungültiger Betrag oder unzureichende Kontostand.");
         }
     }
     
